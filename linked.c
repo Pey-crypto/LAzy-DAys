@@ -161,6 +161,8 @@ int main(void)
              searching(data);
              break;
        case 5: printf("exit");
+		system("cls");
+		system("clear");
                break;
        default: printf("enter a valid option");
 
